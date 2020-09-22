@@ -43,7 +43,7 @@ I expect to learn how to program, understand what consumers want from their prog
 for game development.
 </p>
 
-<img src="16persona.png">
+<img src="16persona.PNG">
 <img src="learningstyles.PNG">
 
 <p>Ideal Job: Game Developer
